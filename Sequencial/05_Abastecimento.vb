@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb 
-' * Project : Algoritmo_05
+' * Author  : Marcio Sousa
+' * File    : Abastecimento.vb 
+' * Project : Sequencial
 ' * 
 ' * Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo para ler o 
 ' * preço do litro da gasolina e o valor do pagamento, e exibir quantos litros ele conseguiu colocar no 

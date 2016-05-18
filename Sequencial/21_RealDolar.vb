@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_21
+' * Author  : Marcio Sousa
+' * File    : RealDolar.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para ler um preço de um produto em reais  e informar o preço do produto em dólares.
 ' */

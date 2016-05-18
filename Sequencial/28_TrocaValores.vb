@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_28
+' * Author  : Marcio Sousa
+' * File    : TrocaValores.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia dois valores para as variáveis A e B e efetue a troca
 ' * dos valores de forma que a variável A passe a possuir o valor da variável B e a

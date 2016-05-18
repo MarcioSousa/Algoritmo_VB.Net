@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_09
+' * Author  : Marcio Sousa
+' * File    : OperacoesAritmeticas.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para ler dois numeros e fazer as operaçoes aritméticas básicas com eles. 
 ' */

@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_24
+' * Author  : Marcio Sousa
+' * File    : RealEuro.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para converter real em euro;
 ' */

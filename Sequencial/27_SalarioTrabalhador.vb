@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_27
+' * Author  : Marcio Sousa
+' * File    : SalarioTrabalhador.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que:
 ' * a) Obtenha o valor para a variável HT (horas trabalhadas no mês);

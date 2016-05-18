@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_08
+' * Author  : Marcio Sousa
+' * File    : MediaAlunos.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para ler três notas de um aluno em uma disciplina e imprimir a sua média 
 ' * ponderada (as notas tem pesos respectivos de 1, 2 e 3). 

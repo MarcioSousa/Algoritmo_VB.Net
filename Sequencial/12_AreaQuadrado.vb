@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_12
+' * Author  : Marcio Sousa
+' * File    : AreaQuadrado.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que calcule a area de um quadrado lendo o lado. 
 ' */

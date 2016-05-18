@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_29
+' * Author  : Marcio Sousa
+' * File    : GastoCombustivel.vb
+' * Project : Sequencial
 ' * 
 ' * Fazer um algoritmo para calcular o custo estimado de gasto com combustível em uma viagem de carro.
 ' */

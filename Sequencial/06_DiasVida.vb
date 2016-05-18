@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_06
+' * Author  : Marcio Sousa
+' * File    : DiasVida.vb
+' * Project : Sequencial
 ' * 
 ' *  Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida 
 ' *  ela possui. Considere sempre anos completos, e que um ano possui 365 dias. Ex: uma pessoa 

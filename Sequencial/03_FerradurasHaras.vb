@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_03
+' * Author  : Marcio Sousa
+' * File    : FerradurasHaras.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os
 ' * cavalos de um haras.

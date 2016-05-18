@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_18
+' * Author  : Marcio Sousa
+' * File    : Hipotenusa.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia os catetos de um triangulo e exiba o valor da hipotenusa
 ' */

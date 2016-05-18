@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_13
+' * Author  : Marcio Sousa
+' * File    : AreaTriangulo.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que calcule a area de um triangulo lendo a base e a altura. 
 ' */

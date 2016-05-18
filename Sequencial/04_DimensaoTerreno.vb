@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_04
+' * Author  : Marcio Sousa
+' * File    : DimensaoTerreno.vb
+' * Project : Sequencial
 ' * 
 ' * A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as 
 ' * dimensões de um terreno e depois exibir a área do terreno. 

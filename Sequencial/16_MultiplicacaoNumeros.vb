@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_16
+' * Author  : Marcio Sousa
+' * File    : MultiplicacaoNumeros.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que receba três números, calcule e mostre a multiplicação desses números 
 ' */

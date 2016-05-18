@@ -1,7 +1,7 @@
 ﻿'/*
-'* Author  : Marcio Pereira de Sousa
-'* File    : Module1.vb
-'* Project : Algoritmo_26
+'* Author  : Marcio Sousa
+'* File    : NomeSobrenome.vb
+'* Project : Sequencial
 '* 
 '* Faça um algoritmo que:
 '* a) Leia o nome;

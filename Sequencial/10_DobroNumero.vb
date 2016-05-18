@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_10
+' * Author  : Marcio Sousa
+' * File    : DobroNumero.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia um número e imprima seu dobro. 
 ' */

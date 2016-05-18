@@ -1,7 +1,7 @@
 ﻿'*
-'*  Author  : Marcio Pereira de Sousa
-'*  File    : Mudule1.vb
-'*  Project : Algoritmo_01 
+'*  Author  : Marcio Sousa
+'*  File    : ValorVeiculo.vb
+'*  Project : Sequencial
 '*  
 '*  O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
 '*  porcentagem dos comissão (28% do preço de custo).

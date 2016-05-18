@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_22
+' * Author  : Marcio Sousa
+' * File    : DolarReal.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para converter dólar em reais
 ' */

@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_07
+' * Author  : Marcio Sousa
+' * File    : RestauranteQuilo.vb
+' * Project : Sequencial
 ' * 
 ' * O restaurante a quilo cobra R$12,00 por cada quilo de refeição. Escreva um algoritmo
 ' * que leia o peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar. Assuma que a 

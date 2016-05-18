@@ -1,7 +1,7 @@
 ﻿'*/*
-'* Author  : Marcio Pereira de Sousa
-'* File    : Module1.vb
-'* Project : Algoritmo_02
+'* Author  : Marcio Sousa
+'* File    : PrecoProduto.vb
+'* Project : Sequencial
 '* 
 '* Faça um algoritmo para ler : a descrição do produto (nome), a quantidade adquirida, o preço unitário 
 '* e o percentual (%) de desconto. Calcular e escrever o total bruto (total_bruto = quantidade adiquirida * 

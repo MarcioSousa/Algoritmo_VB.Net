@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_34
+' * Author  : Marcio Sousa
+' * File    : QuadradoCubo.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia um valor inteiro e apresente os resultados do
 ' * quadrado e do cubo do valor lido.  

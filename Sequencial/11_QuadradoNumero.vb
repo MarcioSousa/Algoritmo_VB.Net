@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_11
+' * Author  : Marcio Sousa
+' * File    : QuadradoNumero.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia um número e imprima seu quadrado. 
 ' */

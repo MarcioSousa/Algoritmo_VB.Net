@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_33
+' * Author  : Marcio Sousa
+' * File    : QuadradoSoma.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia dois valores inteiros (A e B) e apresente o resultado
 ' * do quadrado da soma dos valores lidos. 

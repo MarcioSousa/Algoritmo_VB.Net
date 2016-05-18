@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_31
+' * Author  : Marcio Sousa
+' * File    : ValorCaixaRetangular.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que leia os valores de COMPRIMENTO, LARGURA e
 ' * ALTURA e apresente o valor do volume de uma caixa retangular. Utilize para o

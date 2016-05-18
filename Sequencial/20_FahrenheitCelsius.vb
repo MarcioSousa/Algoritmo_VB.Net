@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_20
+' * Author  : Marcio Sousa
+' * File    : FahrenheitCelsius.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo para ler uma temperatura dada na escala Fahrenheit e exibir o equivalente em Celsius.
 ' * C = 5/9(F-32)

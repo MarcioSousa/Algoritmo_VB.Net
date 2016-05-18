@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_15
+' * Author  : Marcio Sousa
+' * File    : VolumeAgua.vb
+' * Project : Sequencial
 ' * 
 ' * . Calcule o volume de uma caixa d'água cilíndrica. 
 ' */

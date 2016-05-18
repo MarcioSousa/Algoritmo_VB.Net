@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_25
+' * Author  : Marcio Sousa
+' * File    : JurosSimples.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um calculo de Juros Simples, digitando o valor inicial,
 ' * a quantidade de meses que será pago esse valor e a porcentagem de 

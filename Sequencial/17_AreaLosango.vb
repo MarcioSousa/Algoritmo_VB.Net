@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_17
+' * Author  : Marcio Sousa
+' * File    : AreaLosango.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que calcule e mostre a área de um losango. Sabe-se que: A = 
 ' * (diagonal_maior * diagonal_menor)/2;  

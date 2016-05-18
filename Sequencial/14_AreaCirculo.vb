@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_14
+' * Author  : Marcio Sousa
+' * File    : AreaCirculo.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que calcule a area de um circulo lendo o raio dele. 
 ' */

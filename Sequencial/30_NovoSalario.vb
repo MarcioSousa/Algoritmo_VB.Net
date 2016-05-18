@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Marcio Pereira de Sousa
-' * File    : Module1.vb
-' * Project : Algoritmo_30
+' * Author  : Marcio Sousa
+' * File    : NovoSalario.vb
+' * Project : Sequencial
 ' * 
 ' * Faça algoritmo que receba o salário de um funcionário e o percentual de aumento e calcule e mostre o valor do
 ' * aumento e o novo salário.
