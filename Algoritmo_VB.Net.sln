@@ -71,6 +71,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Algoritmo_33", "Algoritmo_3
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Algoritmo_34", "Algoritmo_34\Algoritmo_34.vbproj", "{FA30736F-B0CD-452E-9A93-187E40759A05}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sequencial", "Sequencial\Sequencial.vbproj", "{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{FA30736F-B0CD-452E-9A93-187E40759A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA30736F-B0CD-452E-9A93-187E40759A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA30736F-B0CD-452E-9A93-187E40759A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

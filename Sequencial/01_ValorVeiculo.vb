@@ -9,7 +9,7 @@
 '*  do veículo e seu valor final.
 '*/
 
-Module Module1
+Module ValorVeiculo
 
     Sub Main()
         '// inicializa e declara todas as variáveis como boas práticas de programação

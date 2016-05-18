@@ -8,7 +8,7 @@
 '* preço unitário), o total de desconto,  o total a pagar (total a pagar = total_bruto - desconto).
 '*/*
 
-Module Module1
+Module PrecoProduto
 
     Sub Main()
 
