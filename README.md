@@ -1,5 +1,5 @@
 # Algoritmo-vb.net
-Galera, estamos Desenvolvendo um projeto em C# e em VB .NET. Eu; Marcio Sousa e Antônio Paulo, que estimula iniciantes ou pessoas que tenham interesse na plataforma .NET a aprenderem a programar. Estamos organizando no nosso repositório GitHub, e dividiremos em níveis de desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Module1.vb no Vb .NET e no C# (https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1) no Program.cs em cada diretório já mencionado.
+Galera, estamos Desenvolvendo um projeto em C# e em VB .NET. Eu; Marcio Sousa e Antônio Paulo, que estimula iniciantes ou pessoas que tenham interesse na plataforma .NET a aprenderem a programar. Estamos organizando no nosso repositório GitHub, e dividiremos em níveis de desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Module1.vb no Vb .NET e no C# (https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1) no Program.cs em cada diretório já mencionado. O canal do Youtube que ensina passo a passo para montar cada Algorítmo mensionado logo abaixo é:(https://
 
 [Algoritmo_01](https://github.com/MarcioSousa/Algoritmo-vb.net/tree/master/Algoritmo_01)
  * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
@@ -98,4 +98,4 @@ Galera, estamos Desenvolvendo um projeto em C# e em VB .NET. Eu; Marcio Sousa e 
    a quantidade de meses que será pago esse valor e a porcentagem de 
    juros mensais. Ex: Um empréstimo no valor de 2.000,00, com juros 
    mensais de 8% e a quantidade de 6 meses de pagamento, totalizando
-   o valor de 2.960,00 */
+   o valor de 2.960,00.
