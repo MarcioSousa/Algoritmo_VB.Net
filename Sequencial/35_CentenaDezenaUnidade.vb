@@ -1,6 +1,6 @@
 ﻿'/*
 ' * Author  : Marcio Sousa
-' * File    : CentenaDezenaUnidade
+' * File    : CentenaDezenaUnidade.vb
 ' * Project : Sequencial
 ' * 
 ' * Ler um número inteiro (assuma até três dígitos) e imprimir a saída da seguinte forma:
