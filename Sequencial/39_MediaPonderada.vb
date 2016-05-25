@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Antônio Paulo Neto
-' * File    : Program.cs
-' * Project : Algoritmo_39
+' * Author  : Marcio Sousa
+' * File    : MediaPonderada.vb
+' * Project : Sequencial
 ' * 
 ' * Entrar com quatro números e imprimir a média ponderada, sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4. 
 ' */

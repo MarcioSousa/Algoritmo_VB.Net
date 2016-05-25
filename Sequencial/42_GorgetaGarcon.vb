@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Antônio Paulo Neto
-' * File    : Program.cs
-' * Project : Algoritmo_42
+' * Author  : Marcio Sousa
+' * File    : GorgetaGarcon.vb
+' * Project : Sequencial
 ' * 
 ' * Todo restaurante, embora por lei não possa obrigar o cliente a pagar, cobra 10% para o garçom. 
 ' * Fazer um algoritmo que leia o valor gasto com despesas realizadas em um restaurante e imprima o valor total com a gorjeta.

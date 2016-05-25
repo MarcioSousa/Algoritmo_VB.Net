@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Sequencial.GorgetaGarcon</StartupObject>
+    <StartupObject>Sequencial.KmhparaMph</StartupObject>
     <RootNamespace>Sequencial</RootNamespace>
     <AssemblyName>Sequencial</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -108,6 +108,9 @@
     <Compile Include="40_GastoQuilowatts.vb" />
     <Compile Include="41_PrestacaoAtrasada.vb" />
     <Compile Include="42_GorgetaGarcon.vb" />
+    <Compile Include="43_HoraMinuto.vb" />
+    <Compile Include="44_KmhparaMph.vb" />
+    <Compile Include="45_PesparaMetros.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

@@ -1,7 +1,7 @@
 ﻿'/*
-' * Author  : Antônio Paulo Neto
-' * File    : Program.cs
-' * Project : Algoritmo_36
+' * Author  : Marcio Sousa
+' * File    : MaiorMenorNumero.vb
+' * Project : Sequencial
 ' * 
 ' * Ler um número inteiro e imprimir seu sucessor e seu antecessor. 
 ' */

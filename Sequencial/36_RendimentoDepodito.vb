@@ -1,7 +1,7 @@
 ﻿'/*
 ' * Author  : Marcio Sousa
-' * File    : Program.cs
-' * Project : Algoritmo_36
+' * File    : RendimentoDepodito.vb
+' * Project : Sequencial
 ' * 
 ' * Faça um algoritmo que receba um valor que foi depositado e exiba o
 ' * valor com rendimento após um mês. Considere fixo o juro da

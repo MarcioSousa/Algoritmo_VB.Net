@@ -1,7 +1,7 @@
 ﻿'/*
 ' * Author  : Marcio Sousa
-' * File    : Program.cs
-' * Project : Algoritmo_38
+' * File    : CDUparaUDC.vb
+' * Project : Sequencial
 ' * 
 ' * Entrar com um número no formato CDU e imprimir invertido: UDC. (Exemplo: 123, sairá 321.) 
 ' * O número deverá ser armazenado em outra variável antes de ser impresso. 
