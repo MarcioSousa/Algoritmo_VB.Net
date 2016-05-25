@@ -2,8 +2,7 @@
 Galera, estamos Desenvolvendo um projeto em C# e em VB .NET. Eu; Marcio Sousa e Antônio Paulo, que estimula iniciantes ou pessoas que tenham interesse na plataforma .NET a aprenderem a programar. Estamos organizando no nosso repositório GitHub, e dividiremos em níveis de desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Module1.vb no Vb .NET e no C# (https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1) no Program.cs em cada diretório já mencionado. 
 O canal do Youtube que ensina passo a passo para montar cada Algorítmo mensionado logo abaixo é o [ALP SISTEMAS](https://www.youtube.com/channel/UC5_YLxbD9sa_ZPU4w8BEe3w)
 
-[Algoritmo_01](https://github.com/MarcioSousa/Algoritmo-vb.net/tree/master/Algoritmo_01)
- * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
+[Algoritmo_01](https://github.com/MarcioSousa/Algoritmo-vb.net/tree/master/Algoritmo_01)* O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
    porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
    do veículo e seu valor final.
    Exemplo : (valor_vei * 45) / 100 e (valor_vei * 28) / 100
