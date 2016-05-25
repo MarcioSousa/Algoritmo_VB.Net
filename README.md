@@ -3,7 +3,7 @@ Galera, estamos Desenvolvendo um projeto em C# e em VB .NET. Eu; Marcio Sousa e 
 O canal do Youtube que ensina passo a passo para montar cada Algorítmo mensionado logo abaixo é o [ALP SISTEMAS](https://www.youtube.com/channel/UC5_YLxbD9sa_ZPU4w8BEe3w)
 
 [Algoritmo_01](https://github.com/MarcioSousa/Algoritmo-vb.net/tree/master/Algoritmo_01)
- * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
+   O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
    porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
    do veículo e seu valor final.
    Exemplo : (valor_vei * 45) / 100 e (valor_vei * 28) / 100
