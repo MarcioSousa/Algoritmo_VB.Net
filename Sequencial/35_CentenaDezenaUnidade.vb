@@ -8,8 +8,8 @@
 ' * DEZENA  = x
 ' * UNIDADE = x
 ' */
-
 Module CentenaDezenaUnidade
+
     Sub main()
         Dim numero As Integer = 0
         Dim centena As Integer = 0

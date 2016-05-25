@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A1208ACE-51BB-4146-9152-8F44C6C6D2D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Sequencial.CentenaDezenaUnidade</StartupObject>
+    <StartupObject>Sequencial.CDUparaUDC</StartupObject>
     <RootNamespace>Sequencial</RootNamespace>
     <AssemblyName>Sequencial</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -101,6 +101,9 @@
     <Compile Include="33_QuadradoSoma.vb" />
     <Compile Include="34_QuadradoCubo.vb" />
     <Compile Include="35_CentenaDezenaUnidade.vb" />
+    <Compile Include="36_RendimentoDepodito.vb" />
+    <Compile Include="37_MaiorMenorNumero.vb" />
+    <Compile Include="38_CDUparaUDC.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
